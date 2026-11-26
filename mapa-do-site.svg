@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="920" viewBox="0 0 1400 920">
+<defs><style>text{font-family:Arial,sans-serif;fill:#e8eee6}.node{fill:#172019;stroke:#91b45d;stroke-width:2}.hub{fill:#26351f;stroke:#d5e7a6;stroke-width:3}.line{stroke:#91a77b;stroke-width:2;fill:none}.small{font-size:16px}.title{font-size:30px;font-weight:bold}.label{font-size:20px;font-weight:bold}</style></defs>
+<rect width="1400" height="920" fill="#0b100c"/>
+<text x="700" y="55" text-anchor="middle" class="title">Mapa de navegacao — DayZ Survival Guide</text>
+<rect class="hub" x="500" y="105" width="400" height="90" rx="14"/><text x="700" y="143" text-anchor="middle" class="label">MENU PRINCIPAL</text><text x="700" y="171" text-anchor="middle" class="small">Presente nas paginas principais</text>
+<path class="line" d="M700 195 L700 240 L280 240 L280 300"/>
+<rect class="node" x="170" y="300" width="220" height="76" rx="10"/><text x="280" y="332" text-anchor="middle" class="label">Início</text><text x="280" y="356" text-anchor="middle" class="small">index.html</text>
+<path class="line" d="M700 195 L700 240 L580 240 L580 300"/>
+<rect class="node" x="470" y="300" width="220" height="76" rx="10"/><text x="580" y="332" text-anchor="middle" class="label">Primeiros passos</text><text x="580" y="356" text-anchor="middle" class="small">primeiros-passos.html</text>
+<path class="line" d="M700 195 L700 240 L880 240 L880 300"/>
+<rect class="node" x="770" y="300" width="220" height="76" rx="10"/><text x="880" y="332" text-anchor="middle" class="label">Mapas &amp; Tiers</text><text x="880" y="356" text-anchor="middle" class="small">mapas.html</text>
+<path class="line" d="M700 195 L700 240 L1180 240 L1180 300"/>
+<rect class="node" x="1070" y="300" width="220" height="76" rx="10"/><text x="1180" y="332" text-anchor="middle" class="label">Armas</text><text x="1180" y="356" text-anchor="middle" class="small">equipamentos.html</text>
+<path class="line" d="M700 195 L700 240 L280 240 L280 500"/>
+<rect class="node" x="170" y="500" width="220" height="76" rx="10"/><text x="280" y="532" text-anchor="middle" class="label">Sobrevivência</text><text x="280" y="556" text-anchor="middle" class="small">sobrevivencia.html</text>
+<path class="line" d="M700 195 L700 240 L580 240 L580 500"/>
+<rect class="node" x="470" y="500" width="220" height="76" rx="10"/><text x="580" y="532" text-anchor="middle" class="label">Perigos</text><text x="580" y="556" text-anchor="middle" class="small">perigos.html</text>
+<path class="line" d="M700 195 L700 240 L880 240 L880 500"/>
+<rect class="node" x="770" y="500" width="220" height="76" rx="10"/><text x="880" y="532" text-anchor="middle" class="label">DayZ</text><text x="880" y="556" text-anchor="middle" class="small">sobre.html</text>
+<path class="line" d="M700 195 L700 240 L1180 240 L1180 500"/>
+<rect class="node" x="1070" y="500" width="220" height="76" rx="10"/><text x="1180" y="532" text-anchor="middle" class="label">Comunidade</text><text x="1180" y="556" text-anchor="middle" class="small">contato.html</text>
+<path class="line" d="M700 195 L700 240 L580 240 L580 700"/>
+<rect class="node" x="470" y="700" width="220" height="76" rx="10"/><text x="580" y="732" text-anchor="middle" class="label">Ranking</text><text x="580" y="756" text-anchor="middle" class="small">ranking.html</text>
+<path class="line" d="M700 195 L700 240 L880 240 L880 700"/>
+<rect class="node" x="770" y="700" width="220" height="76" rx="10"/><text x="880" y="732" text-anchor="middle" class="label">Mapas ampliados</text><text x="880" y="756" text-anchor="middle" class="small">mapas-ampliados.html</text>
+<text x="700" y="875" text-anchor="middle" class="small">As paginas tambem possuem links contextuais entre conteudos relacionados (atalhos, mapas e guias).</text></svg>
